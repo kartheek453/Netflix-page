@@ -1,2 +1,1 @@
-# Netflix-page
-Netflix Homepage Clone
+#Netflix
